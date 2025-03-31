@@ -1,4 +1,4 @@
-package example
+package hairpinning
 
 import (
 	"github.com/coredns/caddy"
